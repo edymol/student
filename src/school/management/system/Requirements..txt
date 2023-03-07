@@ -1,0 +1,24 @@
+This is a simple Java project that will be used to track some school activities.
+
+1. Students
+2. Teachers.
+
+It must have 3 Classes. School, Student, Teacher.
+
+Student Class should have
+1. Student id, unique
+2. Student name
+3. Student grade
+4. Student feesPaid
+5. School totalFees
+
+Teacher Class should have
+1. Teacher id, unique
+2. Teacher name
+3. Teacher salary.
+
+School Class should have
+1. Students
+2. Teachers
+3. Income
+4. Expenditure
